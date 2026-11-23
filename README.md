@@ -4,7 +4,7 @@ Full-Stack Developer and Instructor. I teach and build with the MERN stack.
 
 - Teaching full-stack development (Node.js, Express, MongoDB, React, Angular) at NTI and ITI
 - Currently building **[ClassFlow](https://github.com/MostafaNegm222/classflow)**, a classroom platform for instructors and trainees (MERN + Docker)
-- Also working with TypeScript, Nuxt 3, Tailwind CSS and Docker
+- Also working with TypeScript, Nuxt 3 and Docker
 
 ## Featured Projects
 
