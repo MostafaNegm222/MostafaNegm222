@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  I build web apps with the <b>MERN stack</b> and teach full-stack development at <b>NTI</b> and <b>ITI</b>.
+</p>
+
+<p align="center">
   <a href="mailto:mostafanegm0002@gmail.com"><img src="https://img.shields.io/badge/Email-mostafanegm0002%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/MostafaNegm222?tab=repositories"><img src="https://img.shields.io/badge/GitHub-MostafaNegm222-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -40,5 +44,7 @@ Each repository has a README with what it does and how to run it.
 ## Contact
 
 Email me at [mostafanegm0002@gmail.com](mailto:mostafanegm0002@gmail.com).
+
+Download my CV: [Mostafa Negm - Full Stack Developer CV (PDF)](https://mostafanegm222.github.io/Mostafa_Negm_Portfolio/PDF/CV.pdf).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" alt="" width="100%" />
